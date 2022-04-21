@@ -21,3 +21,6 @@
 ## Вопросы
 
 Если возникли вопросы, пишите в slack, вам помогут.
+
+
+Ссылка на макет https://www.figma.com/file/V6eTU7Q97XxBOI19WHmGGA/React-%2F-%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%B0%D1%8F-%D0%BA%D1%83%D1%85%D0%BD%D1%8F-%231?node-id=109%3A3199
